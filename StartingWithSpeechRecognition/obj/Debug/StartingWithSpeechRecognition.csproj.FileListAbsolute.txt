@@ -1,0 +1,15 @@
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\islam\Desktop\Project\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\islam\Desktop\Project\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\islam\Desktop\Project\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\islam\Desktop\Project\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\islam\Desktop\Project\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\islam\Desktop\Project\speech-recognition-master\speech-recognition-master\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\islam\Desktop\Project\speech-recognition-master\speech-recognition-master\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\islam\Desktop\Project\speech-recognition-master\speech-recognition-master\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\islam\Desktop\Project\speech-recognition-master\speech-recognition-master\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\islam\Desktop\Project\speech-recognition-master\speech-recognition-master\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
